@@ -1,0 +1,2 @@
+ipyfilechooser
+ipywidgets
